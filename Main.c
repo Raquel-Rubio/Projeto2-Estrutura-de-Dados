@@ -159,12 +159,12 @@ int main(){
         printf("\n\tSistema de Cadastro de Manutenção\n\n");
 
         printf("Escolha o procedimento:\n\t");
-        printf("1 - Inserir uma Solicitação de Manutenção\n\t");
-        printf("2 - Remover uma Solicitação\n\t");
-        printf("3 - Consultar uma Solicitação\n\t");
-        printf("4 - Alterar a prioridade e/ou período de uma Solicitação\n\t");
-        printf("5 - Exibir a ordem da realização da manutenção\n\t");
-        printf("6 - Exibir todas as solicitações\n\t");
+        printf("1 - Cadastrar equipamento\n\t");
+        printf("2 - Registrar incidente\n\t");
+        printf("3 - Consultar Equipamento e Incidente\n\t");
+        printf("4 - Listar todos os Incidentes\n\t");
+        printf("5 - Excluir um Incidente\n\t");
+        printf("6 - Excluir um Equipamento\n\t");
         printf("0 - Finalizar\n\n\t");
 
 
