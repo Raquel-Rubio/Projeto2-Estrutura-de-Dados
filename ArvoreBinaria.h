@@ -1,14 +1,14 @@
 #ifndef ARVOREBINARIA_H_INCLUDED
 #define ARVOREBINARIA_H_INCLUDED
 
-typedef struct dados{
-    int NIden;
+typedef struct incidente{
+    int NumIden;
     int CodEqui;
     int Grav;
-}Dados;
+}Incidente;
 
 typedef struct NoArvore{
-    Dados info;
+    Incidente info;
     NoArv *esq;
     NoArv *dir;
 }NoArv;
