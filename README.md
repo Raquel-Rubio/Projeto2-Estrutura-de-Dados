@@ -22,6 +22,8 @@ Os Incidentes deverão possuir:
 
 Lawrencio Cecchinato Vituli
 
+Luana Elen de Souza Raimundo
+
 Raquel Rubio de Souza
 
 Valentina Serrano Ruiz
