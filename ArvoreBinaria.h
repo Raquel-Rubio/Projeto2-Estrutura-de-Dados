@@ -2,7 +2,7 @@
 #define ARVOREBINARIA_H_INCLUDED
 
 typedef struct dados{
-    int NIdem;
+    int NIden;
     int CodEqui;
     int Grav;
 }Dados;
